@@ -1,6 +1,7 @@
-# General process in running the comparison between rtl and fl
-# contains script for generating data, plot rtl and fl results, and comparing data result
-# Dependencies: numpy, matplotlib
+*General process in running the comparison between rtl and fl
+*contains script for generating data, plot rtl and fl results, and comparing data result
+*Dependencies: numpy, matplotlib
+
 
 cd perceptron_simulation
 python perceptron_data.py          # generate data used for simulation
