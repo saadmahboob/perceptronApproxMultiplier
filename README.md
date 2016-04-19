@@ -1,4 +1,4 @@
-*Approximate Multiplier Perceptron for Coarse Grain Reconfigurable Array Architecture*
+Approximate Multiplier Perceptron for Coarse Grain Reconfigurable Array Architectur
 
 
 
