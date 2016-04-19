@@ -1,10 +1,10 @@
-==Approximate Multiplier Perceptron for Coarse Grain Reconfigurable Array Architecture==
+*Approximate Multiplier Perceptron for Coarse Grain Reconfigurable Array Architecture*
 
 
 
 This project is part of my Master of Engineering project that explores coarse-grained reconfigurable array (CGRA) architecture. This particular repo implements a perceptron (https://en.wikipedia.org/wiki/Perceptron) that integrates with an approximate multiplier using CGRA.
 
---see perceptron_result_documentation.pdf for a summary--
+**see perceptron_result_documentation.pdf for a summary**
 
 Detailed description of my overall project:
 With the increasing popularity of modern computing applications such as image processing and machine learning, there arises a need for finding platforms that excel in performance, low power consumption, and flexibility. One of the most challenging design choice on selecting suitable architectures has often been balancing programmability and performance. On the spectrum of suitable hardware platforms for modern computing applications, ASIC design dominates the high efficiency low programmability end. On the opposite spectrum, general- purpose microcontroller dominates on the low efficiency and high programmability end. The alternative choice to those traditional architectures is coarse-grained reconfigurable array (CGRA), which well balances the trade off of performance, area, power consumption efficiency and programmability.
